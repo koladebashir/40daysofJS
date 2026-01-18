@@ -9,26 +9,15 @@ The learning path is guided by the expert tutorials from [Tapas Adhikary's YouTu
 ## 📅 Roadmap & Progress
 
 | Day | Topic | Key Concept | Status |
-| --- | --- | --- | --- |
-| **1-5** | **Foundations** | Execution Context, Hoisting, & The Call Stack 
-
- | ✅ |
-| **6-10** | **Memory** | Stack vs. Heap, Garbage Collection, & Immutability 
-
- | ✅ |
-| **11-15** | **Scope & Functions** | Lexical Scoping, Closures, & Higher Order Functions 
-
- | ⏳ |
-| **16-25** | **DOM & Events** | Event Delegation, Bubbling, & Capturing 
-
- | 📅 |
+| **1-5** | **Foundations** | Execution Context, Hoisting, & The Call Stack | ✅ |
+| **6-10** | **Memory** | Stack vs. Heap, Garbage Collection, & Immutability | ✅ |
+| **11-15** | **Scope & Functions** | Lexical Scoping, Closures, & Higher Order Functions | ⏳ |
+| **16-25** | **DOM & Events** | Event Delegation, Bubbling, & Capturing | 📅 |
 | **26-35** | **Asynchronous JS** | Event Loop, Promises, and Microtask Queue | 📅 |
 | **36-40** | **Advanced Optimizations** | Jump Tables, Script Loading (async/defer) 
-
 
 ---
 
 **Current Status:** Learning in Progress 🚀
 **Instructor Credit:** [Tapas Adhikary](https://www.youtube.com/c/TapasAdhikary)
-
 ---
