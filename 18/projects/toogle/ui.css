@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: pink;
+}
+
+.info {
+    font-size: large;
+}
+
+.hidden {
+    display: none;
+}

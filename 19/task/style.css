@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+.tab-header {
+    text-align: center;
+}
+
+.tab.active {
+    border: solid 2px red;
+}
+
+.content {
+    font-size: xx-large;
+    display: none;
+}
+
+.content.active {
+    display: block;
+}

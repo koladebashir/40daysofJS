@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Introduction to DOM</title>
+    <script src="./index.js" defer></script>
+  </head>
+  <body>
+    <h1 id="heading">Welcome to Day 17</h1>
+    <p class="info" id="p-beginning">
+      Hope you are enjoying the 40 days of Javascript series
+    </p>
+    <p class="info">Make sure to subscribe to tapaScript!</p>
+    <button onclick="highlight()">Highlight</button>
+
+    <hr />
+    <br />
+
+    <input
+      type="text"
+      id="searchInput"
+      placeholder="Search..."
+      onkeyup="filterList()"
+    />
+    <ul id="fruits">
+      <li>Apples</li>
+      <li>Carrot</li>
+      <li>Mangoes</li>
+      <li>Pineapple</li>
+      <li>Watermelon</li>
+    </ul>
+
+    <hr />
+    <br />
+
+    <div id="text">This is a test. This test is only a test. and not a. a.</div>
+    <hr />
+
+    <ul id="cars">
+      <li>BMW</li>
+      <li>Mahindra</li>
+      <li>Audi</li>
+      <li>Toyota</li>
+      <li>Honda</li>
+      <li>Hundai</li>
+      <li>Tata</li>
+      <li>Suzuki</li>
+    </ul>
+  </body>
+</html>

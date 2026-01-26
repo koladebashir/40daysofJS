@@ -1,0 +1,17 @@
+.faq-item {
+    border: solid 2px grey;
+    margin-bottom: 5px;
+    font-size: larger; 
+}
+
+.question {
+    font-weight: bold;
+}
+
+.answer {
+    display: none;
+}
+
+.show {
+    display: block;
+}
